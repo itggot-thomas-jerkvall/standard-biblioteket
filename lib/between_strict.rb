@@ -1,7 +1,9 @@
 def between_strict(n1, n2, n3)
-    output = false
-    if (n2 + n3)/2 == n1
-        output = true
+    output = true
+    if n1 <= n2
+        output = false
+    elsif n1 >= n3
+        output = false
     end
     return output
 end
