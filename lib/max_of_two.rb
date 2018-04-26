@@ -8,7 +8,7 @@
 #   max_of_two(5, 10)
 #   # => 10
 #
-# Returns the largest number
+# Returns the largest integer
 def max_of_two(n1, n2)
     max = n1 
     if max < n2
