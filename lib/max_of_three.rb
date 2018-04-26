@@ -6,7 +6,7 @@
 #
 # Examples
 #
-#   max_of_two(5, 10, 1)
+#   max_of_three(5, 10, 1)
 #   # => 10
 #
 # Returns the largest integer
