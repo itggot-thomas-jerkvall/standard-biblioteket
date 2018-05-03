@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   append([3,3,3,2,4])
+#   average([3,3,3,2,4])
 #   # => 3
 #
 # Returns the average of the elements
