@@ -1,6 +1,7 @@
 # Public: Takes two strings and checks if the first one starts with the same letter that the second one is
 #
-# array - The array
+# s1 - the first string
+# s2 - the second string
 #
 # Examples
 #
